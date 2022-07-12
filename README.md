@@ -1,4 +1,4 @@
-This is the code for the 2021-202 competition.
+This is the code for the 2021-2022 competition.
 
 The main module of the code can be found [here](https://github.com/D3rpyDolphin/FtcRobotController2020-21/tree/master/TeamCode/src/main/java/org/firstinspires/ftc/robotlib).
 
